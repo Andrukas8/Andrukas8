@@ -4,6 +4,8 @@
 - 👀 I’m interested in Data Science, Python, R, MQL5
 - 🌱 I’m currently learning MQL5
 - 💞️ I’m looking to collaborate on fintech
+- 🚂 I like trains
+- 🛩️ I like planes
 - 📫 How to reach me https://www.linkedin.com/in/andriyrukas/
 
 <!---

@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on fintech
 - 🚂 I like trains
 - 🛩️ I like planes
+- 🦦 My animal is an otter
 - 📫 How to reach me https://www.linkedin.com/in/andriyrukas/
 
 <!---

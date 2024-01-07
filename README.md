@@ -1,8 +1,7 @@
 [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
 
 - 👋 Hi, I’m @Andrukas8
-- 👀 I’m interested in Data Science, Python, R, MQL5
-- 🌱 I’m currently learning MQL5
+- 👀 I’m interested in QA Manual and Automation Testing
 - 💞️ I’m looking to collaborate on fintech
 - 🚂 I like trains
 - 🛩️ I like planes

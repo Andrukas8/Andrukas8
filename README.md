@@ -6,7 +6,8 @@
 - 🚂 I like trains
 - 🛩️ I like planes
 - 🦦 My animal is an otter
-- 📫 How to reach me https://www.linkedin.com/in/andriyrukas/
+- 📂 My CodePen https://codepen.io/Andrukas8
+- 📫 My LinkedIn https://www.linkedin.com/in/andriyrukas/
 
 <!---
 Andrukas8/Andrukas8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

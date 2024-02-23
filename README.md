@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @Andrukas8
 - 👀 I’m interested in QA Manual and Automation Testing
+- 💻 I'm taking CS50
 - 💞️ I’m looking to collaborate on QA Automation frameworks based on Selenium and Playwright
 - 🚂 I like trains
 - 🛩️ I like planes

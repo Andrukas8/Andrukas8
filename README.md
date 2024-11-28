@@ -1,7 +1,12 @@
 [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
 
 - 👋 Hi, I’m @Andrukas8
-- 👀 I’m interested in QA Manual and Automation Testing
+- 👀 My interests:
+  - QA Manual and Automation Testing (Python, JS, C#)
+  - Expert Advisors and Indicators for MT5 trading platform (MQL5)
+  - Data visualization and analytics (Python, Tableau, Power Bi)
+  - Databases (SQL)
+  - Front-end web-development (HTML, CSS, JS)
 - 💻 I took CS50: <a href="https://certificates.cs50.io/bed77769-3ee7-4b72-a3de-fd05af2036ea.pdf?size=letter" target="_blank">My CS50 Certificate</a>
 - 💞️ I’m looking to collaborate on QA Automation frameworks based on Selenium and Playwright
 - 🚂 I like trains

@@ -6,7 +6,7 @@
   - Expert Advisors and Indicators for MT5 trading platform (MQL5)
   - Data visualization and analytics (Python, Tableau, Power Bi)
   - Databases (SQL)
-  - Front-end web-development (HTML, CSS, JS)
+  - Front-end web development (HTML, CSS, JS)
 - 💻 I took CS50: <a href="https://certificates.cs50.io/bed77769-3ee7-4b72-a3de-fd05af2036ea.pdf?size=letter" target="_blank">My CS50 Certificate</a>
 - 💞️ I’m looking to collaborate on QA Automation frameworks based on Selenium and Playwright
 - 🚂 I like trains

@@ -2,11 +2,10 @@
 
 - 👋 Hi, I’m @Andrukas8
 - 👀 My interests:
-  - QA Manual and Automation Testing (Python, JS, C#)
-  - Expert Advisors and Indicators for MT5 trading platform (MQL5)
-  - Data visualization and analytics (Python, Tableau, Power Bi)
-  - Databases (SQL)
-  - Front-end web development (HTML, CSS, JS)
+  - 🖥🔨  **Testing:** Manual and Automation (Python, JS, C#)
+  - 💲💱   **Trading tools:** Expert Advisors and Indicators for MT5 trading platform (MQL5)
+  - 📈📊  **Data Science:** Data visualization and analytics (Python, Tableau, Power BI, SQL)
+  - 🕷🕸   **Web Development:** Front-end web development (HTML, CSS, JS)
 - 💻 I took CS50: <a href="https://certificates.cs50.io/bed77769-3ee7-4b72-a3de-fd05af2036ea.pdf?size=letter" target="_blank">My CS50 Certificate</a>
 - 💞️ I’m looking to collaborate on QA Automation frameworks based on Selenium and Playwright
 - 🚂 I like trains

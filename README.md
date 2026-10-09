@@ -17,17 +17,8 @@
 - 💻 I took CS50: <a href="https://certificates.cs50.io/bed77769-3ee7-4b72-a3de-fd05af2036ea.pdf?size=letter" target="_blank">My CS50 Certificate</a>
 - 📂 My CodePen: <a href="https://codepen.io/Andrukas8" target="_blank">https://codepen.io/Andrukas8</a>
 - 📫 My LinkedIn: <a href="https://www.linkedin.com/in/andriyrukas/" target="_blank">https://www.linkedin.com/in/andriyrukas/</a>
----
-### Stuff I like:
-- 🚂 trains
-- 🛩️ planes
-- 🎸 playing bass
-- 🦦 otters
-- 🌍 foreign languages: :UK: :FR:
-
----
-### I like foreign languages:
-
+- 👍 Stuff I like: 🚂 trains 🛩️ planes 🎸 playing bass 🦦 otters
+- 🌍 Languages: Ukrainian, Lithuanian, French, Polish, Mandarin, Esperanto
 
 
 <!---
